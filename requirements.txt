@@ -1,1 +1,5 @@
-streamlit
+streamlit>=1.0
+scikit-learn>=1.0
+seaborn>=0.11
+pandas>=1.0
+numpy>=1.0

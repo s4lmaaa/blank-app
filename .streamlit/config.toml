@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4B0082"         # This is the primary color for sliders, buttons, etc.
+backgroundColor = "#7B68EE"      # Background color of the main page
+secondaryBackgroundColor = "#BF00FF"  # Background color of the sidebar or secondary elements
+textColor = "#4B0082"            # Text color for the entire app
+font = "sans serif"              # Font style (options: sans serif, serif, monospace)
