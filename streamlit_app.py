@@ -32,7 +32,7 @@ with col9:
     st.write('')
 
 # Create two columns: one for the image and the other for sliders
-col_img, col_sliders = st.columns([1, 2])
+col_img, col_sliders = st.columns([2, 2])
 
 # Place image on the left column
 with col_img:
