@@ -27,7 +27,7 @@ col7, col8, col9 = st.columns(3)
 with col7:
     st.write('')    
 with col8:
-    st.markdown("<h6 style='font-family:Brush Script MT;text-align: left;'>Welcome to Iris. A simple web app to predict Iris species</h6>", unsafe_allow_html=True)
+    st.markdown("<h6 style='font-family:Futura;text-align: left;'>Welcome to PetalPro. A simple web app to predict Iris species</h6>", unsafe_allow_html=True)
 with col9:
     st.write('')
 
