@@ -14,7 +14,7 @@ with col1:
 with col2:
     st.write('')    
 with col3:
-    st.markdown('<h1 style="color:B284BE; font-family:Papyrus; font-size:23px;">PetalPro</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 style="color:B284BE; font-family:Papyrus; font-size:22px;">PetalPro</h1>', unsafe_allow_html=True)
 with col4:
     st.write('')
 with col5:
